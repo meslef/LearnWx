@@ -1,3 +1,7 @@
 <!--pages/home/home.wxml-->
 <text>hello world</text>
 <button>按钮</button>
+
+<view>2.知识点2</view>
+<view>呵呵呵</view>
+
