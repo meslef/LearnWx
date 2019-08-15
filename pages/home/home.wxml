@@ -9,7 +9,7 @@
 <view>我的年龄: {{age}}</view>
 
 <!-- 2.列表展示  wx:key  wx:for   -->
-<view  wx:key="index"  wx:for="{{students}}">{{index}}-{{item.name}}-{{item.age}}</view>
+<view wx:key="index" wx:for="{{students}}">{{index}}-{{item.name}}-{{item.age}}</view>
 
 
 <!-- 3.事件监听改变data -->
@@ -17,3 +17,5 @@
 <button size="mini" bindtap="handleBtnClick">+</button>
 <button size="mini" bindtap="handleSubtraction">-</button>
 
+<text class="title">Hello World</text>
+<button size="mini">按钮</button>

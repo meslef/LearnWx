@@ -1,5 +1,5 @@
 {
-  "usingComponents": {},//自定义组件
+  "usingComponents": {},
   "navigationBarTitleText": "商品分类",
   "navigationBarTextStyle": "black",
   "navigationBarBackgroundColor": "#1bdb98"

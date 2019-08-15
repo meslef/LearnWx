@@ -1,0 +1,23 @@
+[33mcommit cb69530bff5c45da1c7c64b6e7f28559e447d32b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: 05_掌握局部配置app_json[m[33m)[m
+Author: meslef <1391694812@qq.com>
+Date:   Thu Aug 15 08:22:47 2019 +0800
+
+    05_掌握局部配置app.json
+
+[33mcommit b5952312f0c959f9b5f6a6a2ed64aea9bcda7583[m[33m ([m[1;33mtag: 04_掌握全局配置app[m[33m)[m
+Author: meslef <1391694812@qq.com>
+Date:   Wed Aug 14 20:45:12 2019 +0800
+
+    P8掌握全局配置App
+
+[33mcommit 70fbfdfbeb38556163a890f5d25ff19cac183f63[m[33m ([m[1;33mtag: 03_掌握小程序的初体验[m[33m)[m
+Author: meslef <1391694812@qq.com>
+Date:   Wed Aug 14 14:22:02 2019 +0800
+
+    知识点3
+
+[33mcommit 611298a49845508169cc10867208e73d3f0ac498[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: meslef <1391694812@qq.com>
+Date:   Wed Aug 14 11:17:18 2019 +0800
+
+    初始化项目
